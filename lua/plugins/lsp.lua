@@ -67,7 +67,7 @@ return {
 
   -- Configure Mason to ensure language servers are installed
   {
-    "williamboman/mason.nvim",
+    "mason-org/mason.nvim",
     opts = {
       ensure_installed = {
         -- Language servers
