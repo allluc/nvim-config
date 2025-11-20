@@ -1,4 +1,7 @@
 return {
+  -- Disable flash.nvim to restore default 's' key behavior
+  { 'folke/flash.nvim', enabled = false },
+
   { 'dnlhc/glance.nvim', cmd = 'Glance' },
   { 'nmac427/guess-indent.nvim' },
   { 'tzachar/highlight-undo.nvim' },
