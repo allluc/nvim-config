@@ -82,6 +82,7 @@ return {
         "marksman",
         "gopls",
         "rust-analyzer",
+        "zls",
         -- Linters
         "stylua",
         "shellcheck",
